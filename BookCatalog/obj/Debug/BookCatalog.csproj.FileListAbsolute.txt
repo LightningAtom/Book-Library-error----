@@ -1,0 +1,6 @@
+X:\MCVS проекты\BookCatalog\BookCatalog\bin\Debug\BookCatalog.exe.config
+X:\MCVS проекты\BookCatalog\BookCatalog\bin\Debug\BookCatalog.exe
+X:\MCVS проекты\BookCatalog\BookCatalog\bin\Debug\BookCatalog.pdb
+X:\MCVS проекты\BookCatalog\BookCatalog\obj\Debug\BookCatalog.csprojResolveAssemblyReference.cache
+X:\MCVS проекты\BookCatalog\BookCatalog\obj\Debug\BookCatalog.exe
+X:\MCVS проекты\BookCatalog\BookCatalog\obj\Debug\BookCatalog.pdb
